@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BearMarine16
-- 👀 I’m interested in Swift 
+- 👀 I’m interested in Swift,Rust
 - 🌱 I’m currently learning Swift 
 - 💞️ ...
 - 📫  ...
